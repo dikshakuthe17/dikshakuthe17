@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dikshakuthe17
-- 👩🏻‍💻 MERN Stack Developer,Frontend developer,Backend developer.
+- 👩🏻‍💻 MERN Stack Developer 💻 | React.js ⚛️ | Node.js 🟢 | JavaScript 💡 | Responsive Web Design 🌐 |
 - 👀 I’m interested in coding,web development,app development,machine learning and reasearch.
-- 🌱 I’m currently learning web development and app development.
 - 📫 How to reach me E-mail: kuthediksha123@gmail.com
 
 <!---
